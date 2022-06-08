@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-// Write a programe to find the missing number in a given integer array of 1 to 100?
+// How do you find the missing number in a given integer array of 1 to 100?
 
 
 int main()

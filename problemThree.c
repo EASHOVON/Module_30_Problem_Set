@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// How do you find the largest and smallest number in an integer array?
+// Question 3: How do you find the largest and smallest number in an integer array?
 
 int main(void){
     int n;

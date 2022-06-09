@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-// How do you find the duplicate number on a given integer array?
+// Question 2: How do you find the duplicate number on a given integer array?
 
 int main(void){
     int n;
